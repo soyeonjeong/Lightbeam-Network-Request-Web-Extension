@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Network Requests",
+  "version": "0.1",
+
+  "description": "Logs network requests",
+  "icons": {
+    "48": "48icon.png"
+  },
+
+  "homepage_url": "https://testpilot.firefox.com/",
+
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking"
+  ]
+}
